@@ -1,0 +1,12 @@
+[package]
+name = "time_zone_calc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.45"
+chrono-tz = "0.10.4"
+eframe = "0.36.2"
+egui = "0.36.2"
+iana-time-zone = "0.1.65"
+egui_autocomplete = "15.0.0"
